@@ -1,4 +1,4 @@
-<img style="border-radius: 50%; width: 100px" alt="logo" src="./pubglogo.jpg" />
+<img width="100px" alt="logo" src="./pubglogo.jpg" />
 
 # PUBG challenges Discord bot
 
