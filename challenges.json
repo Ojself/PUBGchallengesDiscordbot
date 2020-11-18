@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Shotgun Only",
+    "challenge": "You're only allowed to use shotguns the whole game."
+  },
+  {
+    "title": "Melee Weapon Only",
+    "challenge": "You're only allowed to use a melee weapon the whole game."
+  },
+  {
+    "title": "One House",
+    "challenge": "You're only allowed to loot 1 house, but your allowed to loot dead bodies."
+  },
+  {
+    "title": "Airdrop Only",
+    "challenge": "You're only allowed to open airdrops for stuff, but allowed to loot deadbodies."
+  },
+  {
+    "title": "Beep Beep",
+    "challenge": "You're only allowed to kill people with vehicles."
+  },
+  {
+    "title": "Switch",
+    "challenge": "When you killed someone you have to switch your whole inventory with the dead body."
+  },
+  {
+    "title": "Road Warrior",
+    "challenge": "You can only stay on the roads"
+  },
+  {
+    "title": "One Magazine",
+    "challenge": "You cannot carry more than one mag for each weapon"
+  },
+  {
+    "title": "Warning Shots",
+    "challenge": "You have to shoot 3 bullets in the air before killing someone"
+  },
+  {
+    "title": "The World War Experience",
+    "challenge": "You have to shoot 3 bullets in the air before killing someone"
+  },
+  {
+    "title": "One House to Rule them all",
+    "challenge": "You are only allowed to loot one house, all other loot can only be received from dead bodies, you may go to ONE other house only if no gun was found in the first one."
+  },
+  {
+    "title": "Drive By Shooter",
+    "challenge": "one designated driver, Everyone else must shoot from within the vehicle"
+  },
+  {
+    "title": "Mad Max",
+    "challenge": "Each player must locate their own vehicle until an intimidating 4-car squad is complete. All 4 must travel together and may help each other collect gasoline."
+  },
+  {
+    "title": "Rendezvous",
+    "challenge": "All four players parachute into separate corners of the map. They must reunite before the final 3 circles. Voice chat highly encouraged."
+  }
+]
